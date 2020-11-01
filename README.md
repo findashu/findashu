@@ -2,12 +2,12 @@
 
 ## I'm a Husband, Developer and Teacher!!
 
+A software engineer who is passionate about work on end to end products and teach people coding. I spent most of my time in front of ```Laptop``` or travelling. I enjoy working on MERN stack and Cloud Infra mainly PaaS Services and part of IaaS.
+
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and reading
-
-I'm a software engineer who is passionate about work on end to end products and teach people coding. I spent most of my time in front of ```Laptop``` or travelling. I enjoy working on MERN stack and Cloud Infra mainly PaaS Services and part of IaaS.
 
 ### Find me around the web :earth_asia:
 
@@ -46,10 +46,9 @@ I'm a software engineer who is passionate about work on end to end products and 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="findashu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=findashu&show_icons=true&hide_border=true&count_private=true" />
+  <img align="left" alt="findashu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=findashu&show_icons=true&hide_border=true&count_private=true&theme=dracula" />
 
 </details>
-
 
 
 [website]: https://findashu.com
