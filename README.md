@@ -6,7 +6,7 @@ A software engineer who is passionate about work on end to end products and teac
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and reading
 
 ### Find me around the web :earth_asia:
