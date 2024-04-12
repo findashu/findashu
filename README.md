@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ashutosh Mishra aka <a href="https://findashu.com/" target="blank">findashu</a> 👩🏾‍💻</h1>
-<h3 align="center">I'm a software engineer passionate about building end-to-end products and teaching coding. With a focus on the MERN stack and cloud infrastructure, I spend my time crafting solutions using PaaS services and dabbling in IaaS. Whether at my laptop or on the move, I enjoy both coding and sharing knowledge with others.</h3>
+<h1 align="center">Hi 👋, I'm Ashutosh Mishra <small><i>aka</i></small> <a href="https://findashu.com/" target="blank">findashu</a> 👩🏾‍💻</h1>
+<h3 align="center">I'm a software engineer driven by a passion for developing end-to-end products and educating others in coding</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=findashu&label=Profile%20views&color=0e75b6&style=flat" alt="findashu" /> </p>
@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/findashu](https://github.com/findashu)
 
-- 💬 Ask me about Cloud and Web Application
+- 💬 Ask me about Cloud, DevOps and Web Application
 
 - 📫 How to reach me **asmyselfashu@gmail.com**
 
