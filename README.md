@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashutosh Mishra aka [findashu](https://findashu.com) 👩🏾‍💻</h1>
+<h1 align="center">Hi 👋, I'm Ashutosh Mishra aka <a href="https://findashu.com/" target="blank">findashu</a> 👩🏾‍💻</h1>
 <h3 align="center">I'm a software engineer passionate about building end-to-end products and teaching coding. With a focus on the MERN stack and cloud infrastructure, I spend my time crafting solutions using PaaS services and dabbling in IaaS. Whether at my laptop or on the move, I enjoy both coding and sharing knowledge with others.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
